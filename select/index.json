@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ROLLING STONE",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-25T14:09:16.142173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Like A Rolling Stone - Album Mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/01_Like_A_Rolling_Stone_-_Album_Mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Like A Rolling Stone (Album Mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/02_Like_A_Rolling_Stone_(Album_Mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like a Rolling Stone (english) - album mix",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/03_Like_a_Rolling_Stone_(english)_-_album_mix_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Like A Rolling Stone (English) (Album Mix)",
+      "artist": "Eiffel 65",
+      "has_synced": true,
+      "path": "select/04_Like_A_Rolling_Stone_(English)_(Album_Mix)_Eiffel_65.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Like a Rolling Stone (english) (album mix)",
+      "artist": "Eiffel 65",
+      "has_synced": false,
+      "path": "select/05_Like_a_Rolling_Stone_(english)_(album_mix)_Eiffel_65.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/06_Like_a_Rolling_Stone_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Rolling Stone",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/07_A_Rolling_Stone_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "11 A Rolling Stone",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/08_11_A_Rolling_Stone_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Like A Rolling Stone",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/09_Like_A_Rolling_Stone_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rolling Stone",
+      "artist": "Danny Brown feat. Petite Noir",
+      "has_synced": true,
+      "path": "select/10_Rolling_Stone_Danny_Brown_feat._Petite_Noir.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rolling Stone (feat. Petite Noir)",
+      "artist": "Danny Brown",
+      "has_synced": true,
+      "path": "select/11_Rolling_Stone_(feat._Petite_Noir)_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Soul Meets Body - Rolling Stone Original",
+      "artist": "Death Cab for Cutie",
+      "has_synced": true,
+      "path": "select/12_Soul_Meets_Body_-_Rolling_Stone_Original_Death_Cab_for_Cutie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cover of the Rolling Stone",
+      "artist": "Poison",
+      "has_synced": true,
+      "path": "select/13_Cover_of_the_Rolling_Stone_Poison.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Drown - Live Acoustic - Rolling Stone Original (EP)",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/14_Drown_-_Live_Acoustic_-_Rolling_Stone_Original_(EP)_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Hate Everything About You - Live Acoustic - Rolling Stone Original (EP)",
+      "artist": "Three Days Grace",
+      "has_synced": false,
+      "path": "select/15_I_Hate_Everything_About_You_-_Live_Acoustic_-_Rolling_Stone_Original_(EP)_Three_Days_Grace.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rolling Stone",
+      "artist": "Pixie Lott",
+      "has_synced": true,
+      "path": "select/16_Rolling_Stone_Pixie_Lott.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Papa Was A Rolling Stone",
+      "artist": "Phil Collins",
+      "has_synced": true,
+      "path": "select/17_Papa_Was_A_Rolling_Stone_Phil_Collins.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROLLING STONE",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_ROLLING_STONE_Brent_Faiyaz.txt"
+    }
+  ]
+}
