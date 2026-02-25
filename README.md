@@ -1,0 +1,52 @@
+# Brent Faiyaz – ROLLING STONE
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I'm a rolling stone
+I'm too wild for you to own
+In a whip that's meant to speed
+If I hurt you would you leave?
+I learned the game
+from some heavyweights
+Catching buses,
+making change from another play
+I still got demons
+from my younger days
+I wish I could shake 'em
+but they follow me
+I wish I could take it easy
+but these fans watch
+Ask my mama, I been hustlin'
+since the sand box
+I'm a rolling stone
+I'm sorry in advance
+if I let you down
+I'm sorry in advance
+if I let you down
+Bitch, you just spilled Louis 13
+on my McQueens
+Back the fuck up
+I got all this pimp shit up
+in my genes
+Blame that on my mother
+I can't go nowhere
+that's less than me
+Ask my lovers, I'm troubled
+First I'm exciting
+then I'm gaslighting,
+make up your mind
+I'm rich as fuck
+and I ain't nothing
+at the same time
+People hate me
+and they love me
+at the same time
+I guess I'm everything
+and nothing at the same time
+I'm sorry in advance
+if I let you down
+(I'm a rolling stone)
+I'm sorry in advance
+if I let you down
+```
